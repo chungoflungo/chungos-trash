@@ -1,6 +1,7 @@
 # chungos-trash
-Chungoflungo's collection of uncategorised Lua code.
+Chungoflungo's collection of uncategorised Lua code. If you want to run any of these programs then really all you need is a basic Lua interpreter.
 
-Need more be said?
 
-Distributed under GNU public license so you can do basically anything you want. I really don't mind.
+-------------------------------------
+Distributed under GNU public license.
+-------------------------------------
