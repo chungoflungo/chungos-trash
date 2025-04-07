@@ -41,7 +41,7 @@ end
 end
 
 --function love.update()
---	if love.keyboard.isDown('d') then -- holding space shows some debug text, I should probably make this a toggle but too bad.
+--	if love.keyboard.isDown('d') then -- holding d shows some debug text, I should probably make this a toggle but too bad.
 --		love.graphics.print("Debug stuff:", 10, 200)
 --		love.graphics.print("Prestige Increment:", increment, 10, 220)
 --	end
